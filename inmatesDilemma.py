@@ -7,7 +7,7 @@ inmatesNumber = list(inmatesNumbers)
 boxes = list(inmatesNumbers)
 random.shuffle(boxes)
 
-cycles = 1000
+cycles = 500
 totalCycles = cycles
 success = 0
 failure = 0
